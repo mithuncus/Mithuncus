@@ -2,7 +2,7 @@
 <h2 align="left">Hi 👋! My name is Mithun Chakravarthi...</h2>
 
 ###
-
+<img src="https://github.com/mithuncus/Devops_2025/blob/98edc7209fec0f26456e545320c8cb238f387066/Black%20Grey%20Sleek%20Scrapbook%20General%20Linkedin%20Banner.png " />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
